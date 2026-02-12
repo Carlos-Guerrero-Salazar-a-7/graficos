@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+783aa431e6860fb08c5cf7872fdbc384 proyectomain_autogen/timestamp
